@@ -1,0 +1,13 @@
+### POST request to example server
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+  "title": "First Post"
+}
+
+
+### GET request to example server
+GET http://localhost:3000/posts
+
+###
